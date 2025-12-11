@@ -5,6 +5,8 @@
 <p align="center">
   <em> Software Development Student 🐾</em>
 </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B23FF7&width=435&lines=Welcome+to+my+Profile+%3C3" alt="Typing SVG" />
+
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
