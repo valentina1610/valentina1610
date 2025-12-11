@@ -17,7 +17,7 @@
   <img src="https://media.tenor.com/LOz8I4fAqJ0AAAAC/kawaii-cat.gif" width="180" />
 </p>
 
----
+
 
 ## 💖 Technologies I use
 
@@ -29,7 +29,7 @@
   <img src="https://media.tenor.com/H0C_1cWmvF0AAAAC/cat-computer.gif" width="200" />
 </p>
 
----
+
 
 ## 🌸 Contact
 - LinkedIn: *https://www.linkedin.com/in/valentina-olmos-0a06852bb/*  
