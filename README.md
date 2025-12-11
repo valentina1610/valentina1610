@@ -32,10 +32,8 @@
 ---
 
 ## 🌸 Contact
-
-- 🐙 GitHub: **@valentina1610**  
-- 💼 LinkedIn: *https://www.linkedin.com/in/valentina-olmos-0a06852bb/*  
-- 📩 Email: **valentinaolmosoo@gmail.com**  
+- LinkedIn: *https://www.linkedin.com/in/valentina-olmos-0a06852bb/*  
+- Email: **valentinaolmosoo@gmail.com**  
 
 <p align="center">
   <img src="https://media.tenor.com/jt1dYtnsHh8AAAAC/cat-waving.gif" width="150"/>
