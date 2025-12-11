@@ -6,8 +6,6 @@
   <em>⭐ Software Development Student ⭐</em>
 </p>
 
----
-
 ## 🐾 A little bit about me
 
 - I study Software Development at IDRA.
@@ -29,15 +27,6 @@
 
 <p align="center">
   <img src="https://media.tenor.com/H0C_1cWmvF0AAAAC/cat-computer.gif" width="200" />
-</p>
-
----
-
-## 🍰 My stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valentina1610&show_icons=true&theme=rose_pine" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentina1610&layout=compact&theme=rose_pine" height="150"/>
 </p>
 
 ---
