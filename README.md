@@ -3,10 +3,10 @@
   
 </p>
 <p align="center">
-  <em>⭐ Software Development Student ⭐</em>
+  <em> Software Development Student 🐾</em>
 </p>
 
-## 🐾 A little bit about me
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 - I study Software Development at IDRA.
 - I love learning and improving my projects.  
