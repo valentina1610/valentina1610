@@ -20,7 +20,7 @@
 
 
 
-## 💖 Technologies I use
+## Technologies I use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,dotnet,git,github,mysql" />
