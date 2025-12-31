@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="1300" height="400" alt="github-header-banner" src="https://github.com/user-attachments/assets/a5d77136-6ea0-4c00-8eee-5a083bb61aad" />
-  
+
 </p>
 <p align="center">
 </p>
