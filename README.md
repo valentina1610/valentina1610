@@ -32,7 +32,7 @@
 
 
 
-## 🌸 Contact
+## Contact
 - LinkedIn: *https://www.linkedin.com/in/valentina-olmos-0a06852bb/*  
 - Email: **valentinaolmosoo@gmail.com**  
 
