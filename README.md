@@ -32,7 +32,7 @@
 
 ## Contact
 - LinkedIn: *https://www.linkedin.com/in/valentina-olmos-0a06852bb/*  
-- Email: **valentinaolmosoo@gmail.com**  
+- Email: **valentinaolmos1610@gmail.com**  
 
 <p align="center">
   <img src="https://media.tenor.com/jt1dYtnsHh8AAAAC/cat-waving.gif" width="150"/>
